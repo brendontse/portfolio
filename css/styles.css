@@ -1,0 +1,15 @@
+.container{
+  background-color: #97BED3;
+}
+body {
+  background-color: #3a5977;
+}
+img {
+  border: 4px solid black;
+  padding: 2px;
+  margin-left: 15px;
+  margin-right: 15px;
+  float: right;
+  width: 20%;
+
+}
