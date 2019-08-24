@@ -1,6 +1,6 @@
 # Brendon's Portfolio
 
-https://brendontse.github.io/portfolio-webpage/
+https://brendontse.github.io/portfolio/
 
 This is a basic portfolio for Brendon Tse. He is currently a student at Epicodus in Portland, Oregon.
 
